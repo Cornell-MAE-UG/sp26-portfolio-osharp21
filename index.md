@@ -7,4 +7,4 @@ title: Owen Sharp
 
 Owen Sharp
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+Take a look at <a href="{{ "/cube-craze-reflection/" | relative_url }}">my individual reflection</a>.
