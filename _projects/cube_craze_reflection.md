@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Cube Craze Robot Design Individual Reflection
-permalink: /projects/cube-craze-reflection/
+permalink: /_projects/cube-craze-reflection/
 technologies: [Arduino, Mechatronics]
 image: /assets/images/robot_pic.jpeg
 imagealt: Cube Craze robot
